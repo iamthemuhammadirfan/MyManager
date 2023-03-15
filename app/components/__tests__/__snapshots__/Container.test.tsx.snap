@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container Component should match with the snap shoots 1`] = `
+<RCTSafeAreaView
+  style={
+    [
+      {
+        "backgroundColor": "red",
+        "flex": 1,
+      },
+      undefined,
+    ]
+  }
+  testID="container"
+>
+  <View />
+</RCTSafeAreaView>
+`;

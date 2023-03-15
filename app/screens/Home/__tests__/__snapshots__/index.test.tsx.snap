@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Screen should matches with the snap shoots 1`] = `
+<RCTSafeAreaView
+  style={
+    [
+      {
+        "backgroundColor": "red",
+        "flex": 1,
+      },
+      undefined,
+    ]
+  }
+  testID="container"
+>
+  <FontAwesome
+    color="#ffffff"
+    name="rocket"
+    size={30}
+    testID="icon"
+  />
+</RCTSafeAreaView>
+`;
